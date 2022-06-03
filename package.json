@@ -1,5 +1,6 @@
 {
 	"author": "Stanislav Afanasiev",
+	"description": "I hope they not going to fire me",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
