@@ -3,7 +3,8 @@
 	"description": "I hope they not going to fire me",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.29.3"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -13,5 +14,11 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": [ "freecodecamp", "NPM", "backend" ]
+	"keywords": [
+		"freecodecamp",
+		"NPM",
+		"backend"
+	],
+	"license": "MIT",
+	"version": "1.0.0"
 }
